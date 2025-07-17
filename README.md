@@ -93,8 +93,8 @@ See [`CONTRIBUTING.md`](docs/CONTRIBUTING.md) for detailed guidelines.
 ---
 
 ## Project Team
-| Role | Name | GitHub | Email |
-|------|------|--------|-------|
+| Role | Name | 
+|------|------|
 | Project Lead | Simphiwe Mathosa | 
 | Backend Dev  | Cameron Brighton | 
 | Front‑end Dev | Dehan Barnard |
